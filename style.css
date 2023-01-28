@@ -1,0 +1,41 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  height: 32rem;
+  width: 20rem;
+  background-color: white;
+  text-align: center;
+  margin: 100px auto auto;
+}
+
+.container {
+  border-radius: 1rem;
+}
+
+.qr-img {
+  margin-top: 16px;
+  border-radius: 1rem;
+
+}
+
+.text {
+  font-size: 15px;
+  width: 80%;
+  margin: auto;
+}
+
+.about {
+  color: #73777B;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
